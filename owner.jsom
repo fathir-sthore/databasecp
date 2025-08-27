@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "description": "Daftar Owner/Admin Bot Telegram",
+    "created_by": "Fathir CPanel Bot",
+    "created_date": "2025-8-30",
+    "last_updated": "2025-12-17"
+  },
+  "owners": [
+    "8460407056",  // Ganti dengan ID owner utama
+    "8460407056"   // Contoh ID admin tambahan
+  ]
+}
